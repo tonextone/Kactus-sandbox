@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E41B70A1-CA62-4D9B-90E9-499A48413BE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30985736-BCA9-44A9-BFFD-C8E1E54C174B",
+    "height": 1638,
+    "width": 900,
+    "x": -2319,
+    "y": -323
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "2D84C11E-30BF-4570-9022-B69562A87B49",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D00EA900-8B9F-48CA-97BF-86B5D0180DAC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "447B2160-8DC4-4ABD-A2C7-FE92778D3F77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C02AB29-40AE-43FB-913A-AD8953A96F70"
+    },
+    {
+      "class": "group",
+      "id": "087D838F-A7EB-4E75-9666-CC608D92B599"
+    },
+    {
+      "class": "group",
+      "id": "1678B667-E67C-4B38-87E0-30F87E293E80"
+    },
+    {
+      "class": "group",
+      "id": "7742D34F-5E61-4439-B0E5-44C745DFC83B"
+    },
+    {
+      "class": "group",
+      "id": "29CF7D9A-358D-4E58-8530-FB55DB32BE58"
+    },
+    {
+      "class": "group",
+      "id": "62271F2D-39EC-42B1-B030-CD24B4E0DB6F"
+    },
+    {
+      "class": "group",
+      "id": "408D1907-D6A1-4633-B1F2-E8C14565A702"
+    }
+  ],
+  "name": "8-Stubs-and-messages",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

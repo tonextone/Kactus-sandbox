@@ -1,0 +1,98 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7F8E5421-66E7-4C5C-B54B-4814D275B4E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C735E6E9-E527-487E-8256-00BBCEB3D479",
+    "height": 36,
+    "width": 36,
+    "x": 0.443000000000211,
+    "y": 800.621
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "77765140-D39A-4EA0-84C9-07C7DCC2A614"
+    },
+    {
+      "class": "shapePath",
+      "id": "FCFF20AF-C9E6-4413-998E-1C61212EF330"
+    },
+    {
+      "class": "shapePath",
+      "id": "22CBE546-F59B-4154-A7C5-947B08B0750B"
+    },
+    {
+      "class": "shapePath",
+      "id": "37ACC3C6-DD2B-44E1-9CEC-2F8CE8AC2B4F"
+    }
+  ],
+  "name": "Fill 134",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "EE8A6015-6999-45BC-A072-FEA77E1C6B14",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "0E7BA378-E293-42BE-8AB6-9AE137D1EC70",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.125,
+          "green": 0.122,
+          "red": 0.137
+        },
+        "do_objectID": "09C98040-33B5-4379-9BBE-D8E86962264A",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

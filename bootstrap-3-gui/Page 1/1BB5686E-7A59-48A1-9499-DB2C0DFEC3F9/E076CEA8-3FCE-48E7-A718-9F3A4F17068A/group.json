@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "E076CEA8-3FCE-48E7-A718-9F3A4F17068A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D344E376-F4AF-4848-B0A0-AF9DF8889E2D",
+    "height": 65,
+    "width": 841,
+    "x": 31,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B1D2632-3539-426B-B9E8-84ADBEA8F7C6"
+    },
+    {
+      "class": "text",
+      "id": "D59EEF85-770F-48FD-AAC8-739E2226BBC6"
+    },
+    {
+      "class": "text",
+      "id": "D0210F10-C18F-456A-906F-BA3237509055"
+    },
+    {
+      "class": "text",
+      "id": "31FFCD3F-9D9D-4121-BB2F-7B72E1830BC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "649C7FA2-65A9-4C74-BD5C-0D7A97D48601"
+    }
+  ],
+  "name": "Subject",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "404F5749-F0EC-4221-A3B7-5FA48B1C2E22",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "C5335D99-0150-4CB6-8A7D-BE0E815822F1",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "do_objectID": "5C6DD366-AF4A-4C54-8176-A2EB649B18F8",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

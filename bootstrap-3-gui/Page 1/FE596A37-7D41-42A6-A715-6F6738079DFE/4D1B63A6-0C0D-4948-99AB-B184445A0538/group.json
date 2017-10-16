@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "4D1B63A6-0C0D-4948-99AB-B184445A0538",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3A073999-5371-47B8-80CA-F2153DD2294A",
+    "height": 101,
+    "width": 347,
+    "x": 586,
+    "y": 457
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "72EA0121-BB32-4CB2-89DD-9DBBD2D10C15"
+    },
+    {
+      "class": "text",
+      "id": "12413290-ECFF-4E87-87FD-72D41EE63B6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB62140F-14B1-42CB-BDDA-B60515DF0431"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "412DB1CD-3C7D-4127-95CE-1F2EDF2D295B"
+    }
+  ],
+  "name": "Suspects",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "3AFD36E3-DA6C-4BC1-9CA5-511CE711229A",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "9FBE7277-A81C-487C-AF76-5DF5C575D1FE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "do_objectID": "FAB4D9C9-F2A6-4078-8413-6831AD856AB7",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

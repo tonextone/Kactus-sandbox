@@ -1,0 +1,98 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "37325F69-5C3A-40A7-9F9B-908901C7A009",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "780C18EF-7383-4A69-B463-A183D862AD4D",
+    "height": 33,
+    "width": 36,
+    "x": 504.4430000000002,
+    "y": 323.621
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5856CA24-1A47-4E12-8AFC-E6BB9B07F288"
+    },
+    {
+      "class": "shapePath",
+      "id": "66232C8F-2EEB-4303-B47C-48FE4C7CFB47"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FD7C341-4CF5-4661-82A6-91D2A587BF7D"
+    },
+    {
+      "class": "shapePath",
+      "id": "95055286-F740-48B7-AD3C-774D743D44B8"
+    }
+  ],
+  "name": "Fill 57",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "1FAE8E48-EC86-47F5-A991-6700A533E110",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "51EAED2A-8C27-4C0D-8C36-9C44B73C2B94",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.125,
+          "green": 0.122,
+          "red": 0.137
+        },
+        "do_objectID": "38FCC6C2-8D14-4375-8D98-45915FE41381",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

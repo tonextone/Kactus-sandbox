@@ -1,0 +1,98 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D167BDB5-750E-4671-BC19-DA204A7A18CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE6A45E3-F342-4351-BE1D-E1B27B610AC5",
+    "height": 33,
+    "width": 39,
+    "x": 285.4430000000002,
+    "y": 1043.621
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "526540D0-5DB3-4ECB-9439-C1ECFB57857D"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C0488B3-61D1-4DE4-B312-B214A4A8D4BD"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA3B50D0-50DC-4C36-9267-A4B363EE1E28"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C7A1195-F6BE-4CF8-A8D9-D1B7F0124CA6"
+    }
+  ],
+  "name": "Fill 180",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "8FC2E5F3-75D3-4D05-BE7C-2E7C66F1B6E2",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "4E9625DA-CFD2-47FC-958F-B48043D26385",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.125,
+          "green": 0.122,
+          "red": 0.137
+        },
+        "do_objectID": "D9BBAD63-F7D6-4DAB-BF38-FEEC4CA12FCD",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

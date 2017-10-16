@@ -1,0 +1,131 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "3EAD916B-F777-4995-A0E2-02936AD606A3",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "643A1E36-5BE3-4FE9-86A5-6CC8BCEBBFD3",
+    "height": 5.730000000000018,
+    "width": 8.443175700992292,
+    "x": 5.986824299007771,
+    "y": 3.269999999999982
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "do_objectID": "D3762109-AA0F-4A69-A27C-0C411BA9FD26",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.23962259849151835, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.23962259849151835, 0}",
+        "do_objectID": "0C964383-EA54-49B4-847A-AC22F583D7E1",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.23962259849151835, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.13314607451081462, 0.41361256544502567}",
+        "curveMode": 4,
+        "curveTo": "{0.17566562079454828, 0.24607329842931303}",
+        "do_objectID": "CD2C7EAA-6E3C-4DBA-96D9-C238825A544F",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0.17566562079454828, 0.24607329842931303}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.011035622648634382, 0.91623036649214373}",
+        "curveMode": 2,
+        "curveTo": "{0.091574039007781369, 0.58115183246073832}",
+        "do_objectID": "F92917CD-995E-416E-8553-19F870A9D1B6",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.051304830828214611, 0.74869109947645096}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0015605148416703684, 1}",
+        "curveMode": 4,
+        "curveTo": "{-0.0054273771659583544, 1}",
+        "do_objectID": "D27A98E2-3601-4408-8E6F-388127548F8C",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{0.0015605148416703684, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 1}",
+        "curveMode": 1,
+        "curveTo": "{1, 1}",
+        "do_objectID": "8F343DD6-5473-4C8F-A2EB-AB958C908667",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.23962259849151835, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.23962259849151835, 0}",
+        "do_objectID": "E79DE6CD-2D1E-432A-A7F7-5B98F7F1ACCC",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.23962259849151835, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.23962259849151835, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.23962259849151835, 0}",
+        "do_objectID": "8AF71674-D2F7-4489-9155-35AD81625B45",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.23962259849151835, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.23962259849151835, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.23962259849151835, 0}",
+        "do_objectID": "DC657308-E584-4105-8045-5D0ACB4B34D3",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.23962259849151835, 0}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

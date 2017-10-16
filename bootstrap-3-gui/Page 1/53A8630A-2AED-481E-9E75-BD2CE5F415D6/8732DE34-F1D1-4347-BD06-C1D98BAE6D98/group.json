@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "8732DE34-F1D1-4347-BD06-C1D98BAE6D98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9589CDAE-9455-406E-9945-E5EA63F10E26",
+    "height": 65,
+    "width": 750,
+    "x": 49,
+    "y": 639
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6711D79-CC7D-4F3C-AFE5-D52DE47567D1"
+    },
+    {
+      "class": "text",
+      "id": "62A7A77D-4BD2-44A4-BE5A-0AEF2E554BFD"
+    },
+    {
+      "class": "text",
+      "id": "4028206D-4D55-4435-854D-C3E64B5973F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F525D2E-123C-4262-A8E7-31A9DEBA82DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C88F63D8-EAE9-42C4-ACD5-1FB666C8E693"
+    },
+    {
+      "class": "text",
+      "id": "9FA6A1DE-0332-4E8B-A8E6-ACF52F2BC592"
+    }
+  ],
+  "name": "Position",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "5DA83A0D-2958-42D7-83F7-A80CB4759FD3",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "92382399-B4FE-4888-93C3-E3654282C0AE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "do_objectID": "8E004E95-4F70-4252-8AEB-2A2D99AE33CE",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "7742D34F-5E61-4439-B0E5-44C745DFC83B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B6BAC9CD-9CD0-4430-8AFD-D91CB0EFDFA1",
+    "height": 317,
+    "width": 234,
+    "x": 111,
+    "y": 636
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "52B38761-670F-43A7-B978-CB2AE328DB93"
+    },
+    {
+      "class": "text",
+      "id": "FFAECCF2-F42F-48BA-B1D3-1CB74F010832"
+    },
+    {
+      "class": "text",
+      "id": "95F85A10-FECA-4E21-9D15-3EBF60458106"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75D924F8-E88F-4D00-98EE-102280B1B147"
+    },
+    {
+      "class": "text",
+      "id": "6F52290B-2088-4913-9C3C-746E6DA5FF46"
+    }
+  ],
+  "name": "Information",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "E0941647-FAA2-4A2C-9DE1-28E702814472",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "C4E1ABE3-21BA-4A82-8B79-F3647D0A8D12",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "do_objectID": "0CBE8C45-91DB-4464-B260-EC74F8084D58",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

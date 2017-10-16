@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "087D838F-A7EB-4E75-9666-CC608D92B599",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "63E14894-70C5-4990-AD15-958F14FD32B9",
+    "height": 316,
+    "width": 234,
+    "x": 111,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C8CFD90-21DF-4A43-98A3-9444C45B371E"
+    },
+    {
+      "class": "text",
+      "id": "23925273-B9F6-4583-9CB1-FF3219D81831"
+    },
+    {
+      "class": "text",
+      "id": "16FDCBFB-C46B-4007-8BC2-244BFA556CBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE34F9A4-C239-43C3-935D-E55A5114D48E"
+    },
+    {
+      "class": "text",
+      "id": "509DDEBC-D136-4047-90C0-58AB01B921B2"
+    }
+  ],
+  "name": "Message sent",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "do_objectID": "4DD5E64E-CD72-4834-954B-E81A9E6A9895",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "8FCFCFE8-E6D5-455B-92E3-2C695C8E671E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "do_objectID": "B4FF6BDE-9F4F-4B11-9139-C497401D51AB",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
